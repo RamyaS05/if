@@ -6,3 +6,4 @@ then
 echo "the $a is greater than $b"
 else
 echo "the $b is greater than $a"
+fi
